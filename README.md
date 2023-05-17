@@ -37,3 +37,6 @@ After doing some research, I discovered that I could use the **`isNaN()`** funct
 Another issue I faced was that the error message would continue to display even after entering a valid input. I realized that I needed to add the **`clearTimeout()`** function within the **`else`** block of the **`weightConvert()`** function to clear the timeout set by the error message when a valid input was entered. This allowed me to display the result without the error message continuing to show.
 
 Overall, it was a learning experience, and I was able to overcome these challenges by doing research and experimenting with different solutions.
+
+![image](https://github.com/paribhandarkar/weight-converter/assets/76446574/0fdbd1c7-97f8-4577-863e-f94543501302)
+
